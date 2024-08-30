@@ -1,3 +1,4 @@
+//que1
 // #include <stdio.h>
 
 // int main() {
@@ -6,6 +7,7 @@
 //     return 0;
 // }
 
+//que2
 // #include <stdio.h>
 // int a=1;
 // int b=2;
@@ -14,6 +16,7 @@
 //     return 0;
 // }
 
+//que3
 // #include <stdio.h>
 
 // int main() {
@@ -34,6 +37,7 @@
 //     return 0;
 // }
 
+//que4
 // #include <stdio.h>
 
 // int main() {
@@ -49,6 +53,7 @@
 //     return 0;
 // }
 
+//que5
 // #include <stdio.h>
 
 // int main() {
@@ -64,6 +69,7 @@
     
 // }
 
+//que6
 // #include <stdio.h>
 
 // int main() {
@@ -88,6 +94,7 @@
 //     return 0;
 // }
 
+//que7
 // #include <stdio.h>
 
 // int main() {
@@ -108,6 +115,7 @@
 //     return 0;
 // }
 
+//que8
 // #include <stdio.h>
 // #include <string.h>
 // int main() {
